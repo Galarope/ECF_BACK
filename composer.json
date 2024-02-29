@@ -1,0 +1,15 @@
+{
+    "name": "luca/ecf",
+    "autoload": {
+        "psr-4": {
+            "ECF\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Galarope",
+            "email": "leroyluca@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
